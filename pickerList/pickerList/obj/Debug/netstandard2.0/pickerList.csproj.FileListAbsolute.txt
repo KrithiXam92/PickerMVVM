@@ -1,0 +1,14 @@
+/Users/krithika/Projects/pickerList/pickerList/bin/Debug/netstandard2.0/pickerList.deps.json
+/Users/krithika/Projects/pickerList/pickerList/bin/Debug/netstandard2.0/pickerList.dll
+/Users/krithika/Projects/pickerList/pickerList/bin/Debug/netstandard2.0/ref/pickerList.dll
+/Users/krithika/Projects/pickerList/pickerList/bin/Debug/netstandard2.0/pickerList.pdb
+/Users/krithika/Projects/pickerList/pickerList/obj/Debug/netstandard2.0/pickerList.csprojAssemblyReference.cache
+/Users/krithika/Projects/pickerList/pickerList/obj/Debug/netstandard2.0/App.xaml.g.cs
+/Users/krithika/Projects/pickerList/pickerList/obj/Debug/netstandard2.0/MainPage.xaml.g.cs
+/Users/krithika/Projects/pickerList/pickerList/obj/Debug/netstandard2.0/pickerList.AssemblyInfoInputs.cache
+/Users/krithika/Projects/pickerList/pickerList/obj/Debug/netstandard2.0/pickerList.AssemblyInfo.cs
+/Users/krithika/Projects/pickerList/pickerList/obj/Debug/netstandard2.0/pickerList.csproj.CoreCompileInputs.cache
+/Users/krithika/Projects/pickerList/pickerList/obj/Debug/netstandard2.0/XamlC.stamp
+/Users/krithika/Projects/pickerList/pickerList/obj/Debug/netstandard2.0/pickerList.dll
+/Users/krithika/Projects/pickerList/pickerList/obj/Debug/netstandard2.0/ref/pickerList.dll
+/Users/krithika/Projects/pickerList/pickerList/obj/Debug/netstandard2.0/pickerList.pdb

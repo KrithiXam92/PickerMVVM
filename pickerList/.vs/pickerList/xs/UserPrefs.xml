@@ -1,0 +1,35 @@
+﻿<Properties StartupConfiguration="{6A92EC03-3963-456A-8DF3-BD2EF05F3917}|Default">
+  <MonoDevelop.Ide.ItemProperties.pickerList.Android PreferredExecutionTarget="Android.galaxy_nexus_q_10_0_-_api_29" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="pickerList/HumanViewModel.cs">
+    <Files>
+      <File FileName="pickerList/MainPage.xaml" Line="7" Column="37" />
+      <File FileName="pickerList/MainPage.xaml.cs" />
+      <File FileName="pickerList/BaseViewModel.cs" />
+      <File FileName="pickerList/HumanViewModel.cs" Line="11" Column="1" />
+      <File FileName="pickerList/HumanData.cs" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="pickerList" expanded="True">
+            <Node name="pickerList" expanded="True">
+              <Node name="HumanViewModel.cs" selected="True" />
+              <Node name="MainPage.xaml" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.pickerList.iOS FirstBuild="True" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Users/krithika/Projects/pickerList/pickerList/HumanViewModel.cs" relfile="pickerList/HumanViewModel.cs" line="11" column="1" />
+      <Breakpoint file="/Users/krithika/Projects/pickerList/pickerList/HumanViewModel.cs" relfile="pickerList/HumanViewModel.cs" line="18" column="1" />
+      <Breakpoint file="/Users/krithika/Projects/pickerList/pickerList/HumanViewModel.cs" relfile="pickerList/HumanViewModel.cs" line="15" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

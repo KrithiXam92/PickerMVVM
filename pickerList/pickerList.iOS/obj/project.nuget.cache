@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "8c95hhc6ch6l1D8rpUgrzAtSwxLJgUQIXNGDGWNFD4p3KJwGcH63dcEvoc0eVPohlxvdBzRnW2Urh6DW0dy6+w==",
+  "success": true,
+  "projectFilePath": "/Users/krithika/Projects/pickerList/pickerList.iOS/pickerList.iOS.csproj",
+  "expectedPackageFiles": [
+    "/Users/krithika/.nuget/packages/xamarin.essentials/1.5.3.2/xamarin.essentials.1.5.3.2.nupkg.sha512",
+    "/Users/krithika/.nuget/packages/xamarin.forms/4.6.0.1141/xamarin.forms.4.6.0.1141.nupkg.sha512"
+  ],
+  "logs": []
+}
